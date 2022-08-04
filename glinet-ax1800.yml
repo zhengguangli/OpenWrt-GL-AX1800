@@ -26,7 +26,7 @@ feeds:
   - name: kenzok8_packages
     uri: https://github.com/kenzok8/openwrt-packages.git
     branch: master
-    revision: 272ecd4387143d52cf15740a35c9a5a3c90463d9
+    revision: 5de689e180e304287313cecc968c323d42b6d388
   - name: kenzok8_small
     uri: https://github.com/kenzok8/small.git
     branch: master
