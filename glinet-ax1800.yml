@@ -57,4 +57,4 @@ packages:
   - luci-app-ttyd
   - luci-app-serverchan
   - luci-app-transmission
-  - luci-app-dailybonus
+  - luci-app-jd-dailybonus
