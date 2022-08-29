@@ -134,7 +134,7 @@ module.exports = [
     desc: 'BT下载工具',
   },
   {
-    name: 'luci-app-dailybonus',
+    name: 'luci-app-jd-dailybonus',
     desc: '京东签到服务',
   },
   // {
