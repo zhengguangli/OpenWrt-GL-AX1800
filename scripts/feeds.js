@@ -26,6 +26,11 @@ module.exports = [
     uri: 'https://github.com/kenzok8/small.git',
     branch: 'master',
   },
+  {
+    name: 'jd_dailybonus',
+    uri: 'https://github.com/jerrykuku/luci-app-jd-dailybonus',
+    branch: 'master',
+  }
   // {
   //   name: 'lienol_packages',
   //   uri: 'https://github.com/Lienol/openwrt-package.git',
