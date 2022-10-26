@@ -28,7 +28,7 @@ feeds:
   - name: small-package
     uri: https://github.com/kenzok8/small-package.git
     branch: main
-    revision: ca28f7fb31781cbc0c09bc3fe68b822f146265fe
+    revision: b5f252e2f9cc822b445c45007a517386593cf816
   - name: jd_dailybonus
     uri: https://github.com/jerrykuku/luci-app-jd-dailybonus
     branch: master
