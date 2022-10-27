@@ -15,10 +15,6 @@ feeds:
   - name: luci
     uri: https://github.com/openwrt/luci.git
     revision: 1c3b32dc1bec15e3076a447762b1c4f94eb75fb7
-  - name: open_app_filter
-    uri: https://github.com/destan19/OpenAppFilter.git
-    branch: oaf-5.1.0
-    revision: 04b701357c271a1bf97afa5dbfbfd02f4861aa25
   - name: kenzok8_packages
     uri: https://github.com/kenzok8/openwrt-packages.git
     branch: master
@@ -31,10 +27,6 @@ feeds:
     uri: https://github.com/kiddin9/openwrt-packages.git
     branch: master
     revision: 53b2a4511f731e100cfb5ac875a1fdbe550431c3
-  - name: jd_dailybonus
-    uri: https://github.com/jerrykuku/luci-app-jd-dailybonus
-    branch: master
-    revision: f5b6efca5048e98688c446acbf934ced173a01c3
 include: []
 packages:
   - kmod-hwmon-pwmfan
