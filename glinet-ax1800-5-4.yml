@@ -24,7 +24,7 @@ feeds:
   - name: kiddin9
     uri: https://github.com/kiddin9/openwrt-packages.git
     branch: master
-    revision: 0feb39f18adb96a90f38848d226dc64cb3b7cfef
+    revision: 8c231cd0e3b304dae4d4570f9852cf5fa98ec21c
 include:
   - wifi-ax
 packages:
